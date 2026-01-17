@@ -5,7 +5,9 @@
 ## 快捷键
 
 ctrl + alt + q 退出
+
 ctrl + alt + p 鼠标可穿透
+
 ctrl + alt + l 隐藏
 
 ## 运行
