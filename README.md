@@ -1,5 +1,7 @@
 # WinterPTer (PySide6)
 
+![](./assets/skins.png)
+
 这是一只WinterPT。
 
 ## 快捷键
