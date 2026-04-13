@@ -1,6 +1,6 @@
 # WinterPTer (PySide6)
 
-![](./assets/skins.png)
+![[]](./assets/skins/000.PNG)
 
 这是一只WinterPT。
 
